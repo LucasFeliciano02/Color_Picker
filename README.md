@@ -4,4 +4,4 @@
 	🚧  Projeto Color Picker 🚀 Em construção...  🚧
 </h4> 
 
-<hr> 
+
