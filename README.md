@@ -1,14 +1,14 @@
 
-<!-- <h4 align="center"> 
----
-	🚧  Projeto Conversor de moedas 🚀 Em construção...  🚧
+<h4 align="center"> 
+
+	🚧  Projeto Color Picker 🚀 Em construção...  🚧
 </h4> 
 
-<hr> -->
+<hr>
 
 
 <div align="center" id="top">
-  <img alt="Gerador" title="Gerador" src="./conversor.gif"/>
+  <img alt="color picker" title="color picker" src="./picker.gif"/>
 </h1>
 
  
