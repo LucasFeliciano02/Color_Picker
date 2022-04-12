@@ -18,7 +18,7 @@
  </div>
  
 
- <h1 align="center">Conversor de moedas</h1>
+ <h1 align="center">Color Picker</h1>
  
  
 <p align="center">
