@@ -37,7 +37,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Conversor de moedas com grafical user interface que utiliza de uma api de cotações para fazer as conversoes em tempo real
+• Color picker feito com a gui tkinter que utiliza do sistema de numeração hexadecimal que corresponde a uma determinada cor
 ```
 
 ## :sparkles: Funcionalidades ##
