@@ -11,7 +11,7 @@ cor2 = "#004338"
 # Janela
 janela = Tk()
 janela.title('Color Picker')
-janela.geometry('530x205')
+# janela.geometry('530x205')
 janela.configure(bg=cor1)
 janela.iconbitmap('color_picker.ico')  # icon do app
 
@@ -103,6 +103,26 @@ botao_copiar.grid(row=0, column=2, padx=5)
 
 label_app_nome = Label(frame_baixo, text='Seletor de Cores', bg=cor1, font=('Ivy', 15, 'bold'))
 label_app_nome.grid(row=0, column=3, padx=40)
+
+
+# * Centralizando o arquivo
+
+# Dimensoes da janela
+largura = 530
+altura = 205
+
+# Resolução do nosso sistema
+largura_screen = janela.winfo_screenwidth()
+altura_screen = janela.winfo_screenheight()
+# print(largura_screen, altura_screen)  # para saber as dimensoes do monitor
+
+
+# Posição da janela
+posx = largura_screen/2 - largura/2
+posy = altura_screen/2 - altura/2
+
+# Definir a geometria
+janela.geometry("%dx%d+%d+%d" % (largura, altura, posx, posy))
 
 
 janela.mainloop()
