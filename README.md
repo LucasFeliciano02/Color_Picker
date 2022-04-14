@@ -44,7 +44,7 @@
 
 
 :heavy_check_mark: Ajustar conforme a cor de deseja;\
-
+:heavy_check_mark: Receber um numero hexadecimal;\
 :heavy_check_mark: Usar como aplicativo desktop;\
 :heavy_check_mark: Em breve disponibilizarei o executável
 
