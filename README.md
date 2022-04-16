@@ -1,6 +1,6 @@
 <!-- <h4 align="center"> 
 ---
-	🚧  Projeto Conversor de moedas 🚀 Em construção...  🚧
+	🚧  Projeto Color Picker 🚀 Em construção...  🚧
 </h4> 
 
 <hr> -->
